@@ -12,6 +12,8 @@ A list of resources that may be useful while doing web development
 #### Angular Stuff
 * https://github.com/marceljuenemann/angular-drag-and-drop-lists
 * http://github.com/angular-ui/ui-select
+* https://angular-ui.github.io/
+* https://github.com/angular-ui/ui-router
 
 #### Bootstrap
 * http://getbootstrap.com/components/
