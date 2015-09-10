@@ -37,5 +37,6 @@ A list of resources that may be useful while doing web development
 
 #### Cool Stuff
 * http://www.emoji-cheat-sheet.com/
+* http://kineticjs.com/
 
 
