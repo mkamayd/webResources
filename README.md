@@ -1,5 +1,6 @@
 # webResources
 A list of resources that may be useful while doing web development
+:raised_hands:
 
 #### To download and use google fonts locally
 * https://google-webfonts-helper.herokuapp.com/fonts/
@@ -33,5 +34,8 @@ A list of resources that may be useful while doing web development
 
 #### JS Runtime Engine
 * https://nodejs.org/en/
+
+#### Cool Stuff
+* http://www.emoji-cheat-sheet.com/
 
 
